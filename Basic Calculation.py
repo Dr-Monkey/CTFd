@@ -1,4 +1,6 @@
-a = 2 ** 1000
-b = 1000
+'The symbolize & is calling mod (取餘數)'
 
-print a % b
+    a = 2 ** 1000
+    b = 1000
+    
+    print a % b
