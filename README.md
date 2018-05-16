@@ -6,6 +6,6 @@ https://www.tutorialspoint.com/execute_python_online.php
 
 
 
-[Basic Calculation.py](/Basic%20Calculation.py)- It is very easy python code to know What is MOD and its symbolize is %
+[Basic Calculation.py](/Python/Basic%20Calculation.py)- It is very easy python code to know What is MOD and its symbolize is %
 
-[Eat bzip.py](/Eat%20bzip.py)- Python's code to encrypt about the bzip.
+[Eat bzip.py](/Python/Eat%20bzip.py)- Python's code to encrypt about the bzip.
